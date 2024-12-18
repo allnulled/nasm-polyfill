@@ -1,0 +1,12 @@
+{
+  "name": "nasm-polyfill",
+  "version": "1.0.0",
+  "description": "Support to run NASM from Node.js in sync.",
+  "main": "nasm-polyfill.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["nasm", "support", "asm", "assembly", "language", "polyfill"],
+  "author": "allnulled",
+  "license": "WTFPL"
+}
